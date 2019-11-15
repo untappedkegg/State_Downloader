@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigOptions>
+  <url descr="Replace the state abbreviation with {0}">http://iaspub.epa.gov/enviro/efservice/GEOGRAPHIC_AREA/SERVICE_AREA/WATER_SYSTEM/STATE_CODE/{0}/EXCEL</url>
+  <downloadedFileName>State_{0}.csv</downloadedFileName>
+  <showInfo>true</showInfo>
+  <includeDC>true</includeDC>
+  <useNarrowProgress>true</useNarrowProgress>
+  <additionalTerritories descr="comment out any that are not needed">
+    <territory name="Puerto Rico">PR</territory>
+    <territory name="Guam">GU</territory>
+    <territory name="US Virgin Islands">VI</territory>
+    <territory name="Northern Mariana Islands">MP</territory>
+    <territory name="American Samoa">AS</territory>
+    <territory name="Micronesia">FM</territory>
+    <territory name="Marshall Islands">MH</territory>
+    <territory name="Palau">AS</territory>
+  </additionalTerritories>
+</ConfigOptions>
