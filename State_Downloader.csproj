@@ -19,7 +19,7 @@
     <PackageReference Include="Funnies.NET" Version="1.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-preview8.19405.11" />
     <PackageReference Include="Polly" Version="7.1.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.7.0-preview8.19405.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
